@@ -5,17 +5,17 @@
 
 
 # All files in the project
-*                         @mdzaman
+*                         @gits5213
 
 # Ownership of specific directories
-/pom/                     @mdzaman
-/utilities/               @mdzaman
-/data/                    @mdzaman
+/pom/                     @gits5213
+/utilities/               @gits5213
+/data/                    @gits5213
 
 # Ownership of specific file types
-*.js                      @mdzaman
+*.js                      @gits5213
 
 # Ownership of specific files
-README.md                 @mdzaman
-package.json              @mdzaman
-Dockerfile                @mdzaman
+README.md                 @gits5213
+package.json              @gits5213
+Dockerfile                @gits5213

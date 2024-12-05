@@ -40,4 +40,6 @@
     - It will automatically execute automation regression suite overnight and generate allure report and deploy allure report to github page (github.io host)
 
 ## Github Page with Allure report 
-  - [Github Page with Allure Report](https://gits5213.github.io/netlifyAppUIAutomation/5/index.html)
+  - [Navigate to the Repogitory](https://github.com/gits5213/netlifyAppUIAutomation)
+    - Right side > Under the About section 
+      - Click on the GitHub page Link

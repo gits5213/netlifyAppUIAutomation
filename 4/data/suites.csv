@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1269","sample Test","chromium","Wed Dec 04 15:24:00 GMT 2024","passed","Wed Dec 04 15:24:01 GMT 2024","Landing Page validation","","",""
+"","486","Test Case 6: Verify ""App icon design"" is in the ""Done"" column","e2e","Thu Dec 05 12:44:53 GMT 2024","failed","Thu Dec 05 12:44:54 GMT 2024","Netlify App Functional Features Validation","","",""
+"","490","Test Case 5: Verify ""Offline mode"" is in the ""In Progress"" column","e2e","Thu Dec 05 12:44:52 GMT 2024","failed","Thu Dec 05 12:44:53 GMT 2024","Netlify App Functional Features Validation","","",""
+"","457","Test Case 2: Verify ""Fix navigation bug"" is in the ""To Do"" column","e2e","Thu Dec 05 12:44:50 GMT 2024","failed","Thu Dec 05 12:44:50 GMT 2024","Netlify App Functional Features Validation","","",""
+"","456","Test Case 3: Verify ""Design system updates"" is in the ""In Progress"" column","e2e","Thu Dec 05 12:44:51 GMT 2024","failed","Thu Dec 05 12:44:51 GMT 2024","Netlify App Functional Features Validation","","",""
+"","694","Test Case 1: Verify ""Implement user authentication"" is in the ""To Do"" column","e2e","Thu Dec 05 12:44:49 GMT 2024","failed","Thu Dec 05 12:44:50 GMT 2024","Netlify App Functional Features Validation","","",""
+"","457","Test Case 4: Verify ""Push notification system"" is in the ""To Do"" column","e2e","Thu Dec 05 12:44:52 GMT 2024","failed","Thu Dec 05 12:44:52 GMT 2024","Netlify App Functional Features Validation","","",""

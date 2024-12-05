@@ -21,7 +21,15 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Create .env File
+        run: |
+          echo "USERNAME=${{ secrets.USERNAME }}" >> .env
+          echo "PASSWORD=${{ secrets.PASSWORD }}" >> .env
+
       - name: Run Playwright Tests
+        env:
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
         run: npx playwright test
 
       - name: Generate Allure Report

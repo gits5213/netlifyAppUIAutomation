@@ -9,7 +9,7 @@ module.exports = defineConfig({
     ["allure-playwright",
       {
         detail: true,
-        outputFolder: "playwright-report/allure-results",
+        outputFolder: "allure-results",
         suiteTitle: false,
       },
     ]

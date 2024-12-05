@@ -31,3 +31,9 @@
   - If, all the tests is passing then allure report will automatically open in a browser
   - If, tests are failing then 
     - CMD/Terminal > Project Root > npm run posttest on the terminal
+
+## CI Pipe Configuration 
+  - Configured CI (Github action) based on each push build
+    - It will automatically execute automation regression suite based on each push and generate allure report and deploy allure report to github page (github.io host)
+  - Configured CI (Github action) nightly build 
+    - It will automatically execute automation regression suite overnight and generate allure report and deploy allure report to github page (github.io host)

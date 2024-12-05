@@ -1,4 +1,4 @@
-name: Playwright Tests and Allure Deployment
+name: Playwright Tests and Allure Deployment on each push build
 
 on:
   push:

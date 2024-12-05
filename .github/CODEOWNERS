@@ -1,0 +1,21 @@
+# Define code owners for specific files and directories
+
+# File pattern               Owner(s)
+<file_or_directory_pattern>  @github_username @github_team
+
+
+# All files in the project
+*                         @mdzaman
+
+# Ownership of specific directories
+/pom/                     @mdzaman
+/utilities/               @mdzaman
+/data/                    @mdzaman
+
+# Ownership of specific file types
+*.js                      @mdzaman
+
+# Ownership of specific files
+README.md                 @mdzaman
+package.json              @mdzaman
+Dockerfile                @mdzaman

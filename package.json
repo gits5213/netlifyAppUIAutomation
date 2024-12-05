@@ -1,0 +1,20 @@
+{
+  "name": "playwright-driven",
+  "version": "1.0.0",
+  "description": "playwright js automation framework",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "npm install && npx playwright install",
+    "test": "npx playwright test --project=e2e",
+    "browser": "npx playwright test --project=chrome",
+    "posttest": "allure generate playwright-report/allure-results --clean -o playwright-report/allure-report && allure open playwright-report/allure-report"
+  },
+  "keywords": [],
+  "author": "MD Shahnewaz Zaman",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "allure-playwright": "^2.2.0",
+    "dotenv": "^16.4.7"
+  }
+}

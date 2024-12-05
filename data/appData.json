@@ -1,0 +1,17 @@
+{
+    "landingPageUrl": "/",
+    
+    "toDo": "To Do",
+    "inProgress": "In Progress",
+    "done": "Done",
+    "feature": "Feature",
+    "bug": "Bug",
+    "design": "Design",
+    "highPriority": "High Priority",
+    "implementUserAuthentication":"Implement user authentication",
+    "designSystemUpdates": "Design system updates",
+    "fixNavigationBug": "Fix navigation bug",
+    "pushNotificationSystem": "Push notification system",
+    "offlineMode": "Offline mode",
+    "appIconDesign": "App icon design"
+}

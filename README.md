@@ -37,3 +37,6 @@
     - It will automatically execute automation regression suite based on each push and generate allure report and deploy allure report to github page (github.io host)
   - Configured CI (Github action) nightly build 
     - It will automatically execute automation regression suite overnight and generate allure report and deploy allure report to github page (github.io host)
+
+## Github Page with Allure report 
+  - [Github Page with Allure Report](https://gits5213.github.io/netlifyAppUIAutomation/5/index.html)

@@ -28,9 +28,10 @@
     - CMD/Terminal > Project root > npm run browser
     
 ## Generating Allure Report
-  - If, all the tests is passing then allure report will automatically open in a browser
+  - If, all the tests is passing
+    - CMD/Terminal > Project Root > npm run post-test on the terminal
   - If, tests are failing then 
-    - CMD/Terminal > Project Root > npm run posttest on the terminal
+    - CMD/Terminal > Project Root > npm run post-test on the terminal
 
 ## CI Pipe Configuration 
   - Configured CI (Github action) based on each push build

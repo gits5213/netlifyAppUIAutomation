@@ -28,12 +28,16 @@
     - CMD/Terminal > Project root > npm run browser
     
 ## Generating Allure Report
-  - If, all the tests is passing then allure report will automatically open in a browser
+  - If, all the tests is passing
+    - CMD/Terminal > Project Root > npm run post-test on the terminal
   - If, tests are failing then 
-    - CMD/Terminal > Project Root > npm run posttest on the terminal
+    - CMD/Terminal > Project Root > npm run post-test on the terminal
 
 ## CI Pipe Configuration 
   - Configured CI (Github action) based on each push build
     - It will automatically execute automation regression suite based on each push and generate allure report and deploy allure report to github page (github.io host)
   - Configured CI (Github action) nightly build 
     - It will automatically execute automation regression suite overnight and generate allure report and deploy allure report to github page (github.io host)
+
+## Github Page with Allure report 
+  - [Github Page with Allure Report](https://gits5213.github.io/netlifyAppUIAutomation/5/index.html)
